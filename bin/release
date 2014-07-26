@@ -3,3 +3,8 @@
 # Usage:
 #
 #     $ bin/release <build-dir>
+
+cat << EOF
+---
+default_process_types:
+EOF
